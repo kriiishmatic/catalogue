@@ -1,3 +1,6 @@
+Sonarqube setup
+Quality gate :
+
 #### Vulnerabilities
 Security issues in the code that could be exploited by attackers (e.g., SQL injection, hard-coded secrets). These represent real security risks.
 
